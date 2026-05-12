@@ -1,0 +1,95 @@
+site_name: No Fluxo UNB
+site_description: Documentação do projeto No Fluxo UNB, relacionada à matéria de "Qualidade de Software" do curso de Engenharia de Software da UnB FCTE.
+site_url: https://fcte-qualidade-de-software-1.github.io/2026-1_T02_KATHERINE_JOHNSON/
+
+repo_name: FCTE-Qualidade-de-Software-1/2026-1_T02_KATHERINE_JOHNSON
+repo_url: https://github.com/FCTE-Qualidade-de-Software-1/2026-1_T02_KATHERINE_JOHNSON
+
+theme:
+    name: material
+    language: pt-BR
+    favicon: assets/images/icon.png
+    logo: assets/images/icon.png
+    features:
+        - navigation.tabs
+        - navigation.sections
+        - navigation.expand
+        - navigation.path
+        - navigation.top
+        - search.highlight
+        - search.share
+        - toc.follow
+        - content.code.annotate
+        - content.code.copy
+        - content.tabs.link
+    palette:
+        - scheme: default
+          primary: teal
+          accent: green
+          toggle:
+              icon: material/brightness-7
+              name: Mudar para modo escuro
+        - scheme: slate
+          primary: teal
+          accent: green
+          toggle:
+              icon: material/brightness-4
+              name: Mudar para modo claro
+
+markdown_extensions:
+    - pymdownx.highlight:
+          anchor_linenums: true
+    - pymdownx.inlinehilite
+    - pymdownx.snippets
+    - admonition
+    - pymdownx.arithmatex:
+          generic: true
+    - footnotes
+    - pymdownx.details
+    - pymdownx.superfences:
+          custom_fences:
+              - name: mermaid
+                class: mermaid
+                format: !!python/name:pymdownx.superfences.fence_code_format
+    - pymdownx.mark
+    - attr_list
+    - md_in_html
+    - pymdownx.emoji:
+          emoji_index: !!python/name:material.extensions.emoji.twemoji
+          emoji_generator: !!python/name:material.extensions.emoji.to_svg
+    - pymdownx.tabbed:
+          alternate_style: true
+    - pymdownx.tasklist:
+          custom_checkbox: true
+
+plugins:
+    - search
+    - mermaid2:
+          arguments:
+              theme: |
+                  ^(JSON.parse(__md_get("__palette").index == 1)) ?
+                  'dark' : 'light'
+
+extra_css:
+    - stylesheets/theme-overrides.css
+
+nav:
+    - Página Inicial: index.md
+    - Sobre o Projeto:
+          - Visão Geral: sobre/visao-geral.md
+          - Equipe: sobre/equipe.md
+    - Fase 1 - Requisitos de Avaliação:
+          - 1. Propósito da Avaliação: entregas/fase-1/proposito-da-avaliacao.md
+          - 2. Requisitante e Partes Interessadas: entregas/fase-1/partes-interessadas.md
+          - 3. Características do Produto: entregas/fase-1/caracteristicas-produto.md
+          - 4. Especificação do modelo de qualidade: entregas/fase-1/especificacao-modelo-qualidade.md
+          - 5. Seleção das características avaliadas: entregas/fase-1/selecao-caracteristicas-avaliadas.md
+          - 6. ODS Relacionados: entregas/fase-1/ods-relacionados.md
+    - Declaração do uso de IA: entregas/declaracao_ia.md
+
+extra:
+    social:
+        - icon: fontawesome/brands/github
+          link: https://github.com/FCTE-Qualidade-de-Software-1/2026-1_T02_KATHERINE_JOHNSON
+
+copyright: Copyright &copy; 2026 - T02 Katherine Johnson
