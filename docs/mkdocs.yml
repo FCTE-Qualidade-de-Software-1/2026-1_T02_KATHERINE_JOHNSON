@@ -20,15 +20,15 @@
 
 # Project information
 site_name: Material for MkDocs
-site_url: https://squidfunk.github.io/mkdocs-material/
-site_author: Martin Donath
+site_url: https://fcte-qualidade-de-software-1.github.io/2026-1_T02_KATHERINE_JOHNSON/
+site_author: Martin Donath (template)
 site_description: >-
   Write your documentation in Markdown and create a professional static site in
   minutes – searchable, customizable, in 60+ languages, for all devices
 
 # Repository
-repo_name: squidfunk/mkdocs-material
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_name: 2026-1_T02_KATHERINE_JOHNSON
+repo_url: https://github.com/FCTE-Qualidade-de-Software-1/2026-1_T02_KATHERINE_JOHNSON
 
 # Copyright
 copyright: Copyright &copy; 2016 - 2026 Martin Donath
