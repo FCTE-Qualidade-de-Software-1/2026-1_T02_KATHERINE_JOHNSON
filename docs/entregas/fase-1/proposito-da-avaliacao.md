@@ -24,7 +24,7 @@ Os resultados obtidos por meio desta avaliação têm como finalidade orientar o
 | Característica | Análise a ser conduzida | Decisão a ser apoiada | Quem tomará a decisão? |
 | :--- | :--- | :--- | :--- |
 | **Confiabilidade** | Testes de carga e análise de tratamento de exceções no backend (Java) durante requisições pesadas (ex: leitura de histórico e mesclagem de fluxogramas de cursos diferentes). | Priorização do backlog técnico para correção de gargalos de infraestrutura e implementação de tratativas de erro que evitem a queda do sistema durante os picos de acesso. | Desenvolvedores e Mantenedores do NoFluxo UnB |
-| **Manutenibilidade** | Análise estática da base de código (frontend em React e backend em Java) utilizando ferramentas automatizadas e métricas das ISOs 25010 para identificar dívida técnica e nível de complexidade. | Determinar quais módulos são sujeitas a refatoração e atualização de documentação para viabilizar a entrada de novos alunos contribuidores, reduzindo o esforço e o custo de evolução do sistema. | Desenvolvedores e Mantenedores do NoFluxo UnB |
+| **Manutenibilidade** | Análise estática da base de código (frontend em React e backend em Java) utilizando ferramentas automatizadas e métricas da ISO/IEC 25023 para identificar dívida técnica e nível de complexidade. | Determinar quais módulos são sujeitas a refatoração e atualização de documentação para viabilizar a entrada de novos alunos contribuidores, reduzindo o esforço e o custo de evolução do sistema. | Desenvolvedores e Mantenedores do NoFluxo UnB |
 
 
 
@@ -39,7 +39,7 @@ A classificação apresentada a seguir considera o contexto de utilização do s
 | Característica de Qualidade (ISO 25010) | Resultado MoSCoW | Justificativa |
 | :--- | :---: | :--- |
 | **Confiabilidade** | Must | **Foco principal.** Falhas críticas, travamentos ou perda de dados do histórico processado frustram o planejamento do aluno e quebram a confiança no sistema durante o período de matrículas. |
-| **Manutenibilidade** | Must | **Foco principal.** Por ser um projeto de código aberto mantido por estudantes da UnB que rotacionam a cada semestre, a facilidade de compreender e modificar a base de código é vital para a sobrevivência do produto a longo prazo. |
+| **Manutenibilidade** | Must | **Foco principal.** O projeto é rotativo entre alunos e apresenta indícios de códigos de infraestrutura gerados por IA. Garantir a legibilidade e evitar dívidas técnicas é vital para a sobrevivência do produto. |
 | Segurança | Should | **Foco secundário.** O sistema lida com o planejamento de disciplinas e upload de arquivos. Como não possui processamento de alto risco, a análise de vulnerabilidades atua como apoio à estabilidade geral do sistema. |
 | Adequação Funcional | Could | A aplicação já atende adequadamente às suas funcionalidades principais, como leitura de histórico e montagem de grade. Assim, o foco atual está mais relacionado à estabilidade do sistema do que à validação de requisitos. |
 | Eficiência de Desempenho | Could | Importante para manter um tempo de resposta adequado no processamento de históricos e pré-requisitos, embora tenha menor prioridade em relação à prevenção de falhas estruturais do sistema. |
