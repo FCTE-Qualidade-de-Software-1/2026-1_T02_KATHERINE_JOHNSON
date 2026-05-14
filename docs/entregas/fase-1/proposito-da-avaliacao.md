@@ -23,8 +23,8 @@ Os resultados obtidos por meio desta avaliação têm como finalidade orientar o
 
 | Característica | Análise a ser conduzida | Decisão a ser apoiada | Quem tomará a decisão? |
 | :--- | :--- | :--- | :--- |
-| **Confiabilidade** | Testes de carga e análise de tratamento de exceções no backend (Java) durante requisições pesadas (ex: leitura de histórico e mesclagem de fluxogramas de cursos diferentes). | Priorização do backlog técnico para correção de gargalos de infraestrutura e implementação de tratativas de erro que evitem a queda do sistema durante os picos de acesso. | Desenvolvedores e Mantenedores do NoFluxo UnB |
-| **Manutenibilidade** | Análise estática da base de código (frontend em React e backend em Java) utilizando ferramentas automatizadas e métricas da ISO/IEC 25023 para identificar dívida técnica e nível de complexidade. | Determinar quais módulos são sujeitas a refatoração e atualização de documentação para viabilizar a entrada de novos alunos contribuidores, reduzindo o esforço e o custo de evolução do sistema. | Desenvolvedores e Mantenedores do NoFluxo UnB |
+| **Confiabilidade** | Testes de carga e análise de tratamento de exceções no backend durante requisições pesadas (ex: leitura de histórico e mesclagem de fluxogramas de cursos diferentes). | Priorização do backlog técnico para correção de gargalos de infraestrutura e implementação de tratativas de erro que evitem a queda do sistema durante os picos de acesso. | Desenvolvedores e Mantenedores do NoFluxo UnB |
+| **Manutenibilidade** | Análise estática da base de código (frontend e backend ) utilizando ferramentas automatizadas, além de métricas da ISO/IEC 25023, definidas através MoSCoW, para identificar dívida técnica e nível de complexidade. | Determinar quais módulos são sujeitas a refatoração e atualização de documentação para viabilizar a entrada de novos alunos contribuidores, reduzindo o esforço e o custo de evolução do sistema. | Desenvolvedores e Mantenedores do NoFluxo UnB |
 
 
 
