@@ -74,10 +74,8 @@ extra_css:
     - stylesheets/theme-overrides.css
 
 nav:
-    - Página Inicial: index.md
-    - Sobre o Projeto:
-          - Visão Geral: sobre/visao-geral.md
-          - Equipe: sobre/equipe.md
+    - Sobre o Projeto: index.md
+    - Katherine Johnson: katherine_johnson/katherine_johnson.md
     - Fase 1 - Requisitos de Avaliação:
           - 1. Propósito da Avaliação: entregas/fase-1/proposito-da-avaliacao.md
           - 2. Requisitante e Partes Interessadas: entregas/fase-1/partes-interessadas.md
