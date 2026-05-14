@@ -31,10 +31,9 @@ Para priorização da Características foi feito um formulário eletrônico e um
 [analisabilidade](../../assets/images/analisabilidade-manutenabilidade.png)
 
 
-Maturidade, Disponibilidade e Tolerancia a falahas foram as sub características votadas como mais importantante em confiabilidade e em discussão foi concordado que essas características eram mesmo as mais importante. Capacidade de recupração foi acordado que não entraria dentro do escopo.
+Em confiabilidade, as subcaracterísticas mais votadas foram Maturidade, Disponibilidade e Tolerância a Falhas. Após discussão, o grupo concordou que essas eram, de fato, as mais importantes para análise. A Capacidade de Recuperação foi considerada, porém decidiu-se que ela não entraria no escopo do projeto.
 
-Em manutenabilidade, Analisabilidade, Modificabilidade, Testabilidade e Modularidade foram as mais votados. Em discussão foi acordado que essas seriam as sub características analísadas. Como foi discutido ao falar das características o grupo viu que era muito importante esses testes pois o projeto foi feito por alunos em formação e é bem possível eles não terem posto em consideração essas subcaracterísticas.
-
+Em manutenibilidade, as subcaracterísticas mais votadas foram Analisabilidade, Modificabilidade, Testabilidade e Modularidade. Durante as discussões, o grupo concordou que essas seriam as subcaracterísticas analisadas. Além disso, foi destacado que a avaliação desses aspectos era especialmente importante, considerando que o projeto foi desenvolvido por alunos em formação, o que aumenta a possibilidade de essas subcaracterísticas não terem sido plenamente consideradas durante o desenvolvimento.
 
 
 ## Referências Bibliográficas
