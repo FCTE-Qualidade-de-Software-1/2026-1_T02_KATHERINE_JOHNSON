@@ -14,43 +14,48 @@ O [**No Fluxo UNB**] é um ...
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
         <td align="center">
-            <a href="https://github.com/...">
-                <img style="border-radius: 50%; width: 100px; heigth: 100px" src="" alt="Integrante" />
-                <h5 class="text-center">...</h5>
-                <h5 class="text-center">...</h5>
+            <a href="https://github.com/AndreMeyerr">
+                <img style="border-radius: 50%; width: 100px; height: 100px" src="https://github.com/AndreMeyerr.png" alt="André Meyer"/>
+                <h5 class="text-center">André Meyer</h5>
+                <h5 class="text-center">@AndreMeyerr</h5>
             </a>
         </td>
         <td align="center">
-            <a href="https://github.com/">
-                <img style="border-radius: 50%;  width: 100px; heigth: 100px" src="" alt="Integrante"/>
-                <h5 class="text-center">...</h5>
-                <h5 class="text-center">...</h5>
+            <a href="https://github.com/caiolamego">
+                <img style="border-radius: 50%; width: 100px; height: 100px" src="https://github.com/caiolamego.png" alt="Caio Lamego"/>
+                <h5 class="text-center">Caio Lamego</h5>
+                <h5 class="text-center">@caiolamego</h5>
             </a>
-        </td><td align="center">
-            <a href="https://github.com/GGdornelas">
-                <img style="border-radius: 50%;  width: 80px;heigth: 100px" src="" alt="Integrante"/>
+        </td>
+        <td align="center">
+            <a href="https://github.com/GGDornelas">
+                <img style="border-radius: 50%; width: 100px; height: 100px" src="https://github.com/GGDornelas.png" alt="Giovanni Dornelas Ferreira"/>
                 <h5 class="text-center">Giovanni Dornelas Ferreira</h5>
                 <h5 class="text-center">232002664</h5>
             </a>
-        </td><td align="center">
-            <a href="https://github.com/">
-                <img style="border-radius: 50%;  width: 150px;heigth: 100px" src="" alt="Integrante"/>
-                <h5 class="text-center">...</h5>
-                <h5 class="text-center">...</h5>
-            </a>
-        </td><td align="center">
-            <a href="https://github.com/">
-                <img style="border-radius: 50%;  width: 150px;heigth: 100px" src="" alt="Integrante"/>
-                <h5 class="text-center">...</h5>
-                <h5 class="text-center">...</h5>
-            </a>
-        </td><td align="center">
-            <a href="https://github.com/">
-                <img style="border-radius: 50%;  width: 150px;heigth: 100px" src="" alt="Integrante"/>
-                <h5 class="text-center">...</h5>
-                <h5 class="text-center">...</h5>
+        </td>
+        <td align="center">
+            <a href="https://github.com/alvesingrid">
+                <img style="border-radius: 50%; width: 100px; height: 100px" src="https://github.com/alvesingrid.png" alt="Ingrid Alves" />
+                <h5 class="text-center">Ingrid Alves</h5>
+                <h5 class="text-center">@alvesingrid</h5>
             </a>
         </td>
+        <td align="center">
+            <a href="https://github.com/pfc15">
+                <img style="border-radius: 50%; width: 100px; height: 100px" src="https://github.com/pfc15.png" alt="Pedro Cruz"/>
+                <h5 class="text-center">Pedro Cruz</h5>
+                <h5 class="text-center">@pfc15</h5>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/viniiribeiro">
+                <img style="border-radius: 50%; width: 100px; height: 100px" src="https://github.com/viniiribeiro.png" alt="Vinícius Ribeiro"/>
+                <h5 class="text-center">Vinícius Ribeiro</h5>
+                <h5 class="text-center">@viniiribeiro</h5>
+            </a>
+        </td>
+    </tr>
 </table>
 </center>
 

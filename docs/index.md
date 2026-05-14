@@ -1,7 +1,7 @@
 # Qualidade de Software
 
 <p align="center">
-  <img src="assets/images/logo.png" width="50%" alt="No Fluxo UNB">
+  <img src="assets/images/nofluxo.png" width="30%" alt="No Fluxo UNB">
 </p>
 
 <p align="center" style="font-size: 12px; font-style: italic;">
@@ -22,22 +22,22 @@ O objetivo principal do trabalho é avaliar aspectos de qualidade do sistema **N
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <td align="center">
-      <a href="https://github.com/">
-        <img style="border-radius: 50%; width: 100px; height: 100px" src="" alt="..." />
+      <a href="https://github.com/AndreMeyerr">
+        <img style="border-radius: 50%; width: 100px; height: 100px" src="https://github.com/AndreMeyerr.png" alt="André Meyer" />
         <br />
-        <div><strong>...</strong><br />...</div>
+        <div><strong>André Meyer</strong><br />@AndreMeyerr</div>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/">
-        <img style="border-radius: 50%; width: 100px; height: 100px" src="" alt="..." />
+      <a href="https://github.com/caiolamego">
+        <img style="border-radius: 50%; width: 100px; height: 100px" src="https://github.com/caiolamego.png" alt="Caio Lamego" />
         <br />
-        <div><strong>...</strong><br />...</div>
+        <div><strong>Caio Lamego</strong><br />@caiolamego</div>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/GGdornelas">
-        <img style="border-radius: 50%; width: 100px; height: 100px" src="assets/images/foto-giovanni.jpg" alt="Giovanni Dornelas Ferreira" />
+      <a href="https://github.com/GGDornelas">
+        <img style="border-radius: 50%; width: 100px; height: 100px" src="https://github.com/GGDornelas.png" alt="Giovanni Dornelas Ferreira" />
         <br />
         <div><strong>Giovanni Dornelas Ferreira</strong><br />232002664</div>
       </a>
@@ -45,24 +45,24 @@ O objetivo principal do trabalho é avaliar aspectos de qualidade do sistema **N
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/">
-        <img style="border-radius: 50%; width: 100px; height: 100px" src="" alt="..." />
+      <a href="https://github.com/alvesingrid">
+        <img style="border-radius: 50%; width: 100px; height: 100px" src="https://github.com/alvesingrid.png" alt="Ingrid Alves" />
         <br />
-        <div><strong>...</strong><br />...</div>
+        <div><strong>Ingrid Alves</strong><br />@alvesingrid</div>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/">
-        <img style="border-radius: 50%; width: 100px; height: 100px" src="" alt="..." />
+      <a href="https://github.com/pfc15">
+        <img style="border-radius: 50%; width: 100px; height: 100px" src="https://github.com/pfc15.png" alt="Pedro Cruz" />
         <br />
-        <div><strong>...</strong><br />...</div>
+        <div><strong>Pedro Cruz</strong><br />@pfc15</div>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/">
-        <img style="border-radius: 50%; width: 100px; height: 100px" src="" alt="..." />
+      <a href="https://github.com/viniiribeiro">
+        <img style="border-radius: 50%; width: 100px; height: 100px" src="https://github.com/viniiribeiro.png" alt="Vinícius Ribeiro" />
         <br />
-        <div><strong>...</strong><br />...</div>
+        <div><strong>Vinícius Ribeiro</strong><br />@viniiribeiro</div>
       </a>
     </td>
   </tr>
