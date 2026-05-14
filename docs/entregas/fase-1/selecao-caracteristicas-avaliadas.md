@@ -17,7 +17,23 @@ Decidimos não priorizar a segurança porque o site não lida com informações 
 ---
 
 ## 5.2 Priorização das Subcaracterísticas
+Para priorização da Características foi feito um formulário eletrônico e uma discussão para confirmar os resultados.
 
+
+[disponibilidade-confiabilidade](../../assets/images/disponibilidade-confiablidade.png)
+[tolerancia-confiabilidade](../../assets/images/tolerancia-confiablidade.png)
+[maturidade-confiabilidade](../../assets/images/maturidade-confiablidade.png)
+[modularidade-confiabilidade](../../assets/images/modularidade-manutenabilidade.png)
+[recuperacao-confiabilidade](../../assets/images/recuperacao-confiablidade.png)
+
+[modularidade-manutenabilidade](../../assets/images/modularidade-manutenabilidade.png)
+[reusabilidade](../../assets/images/reusabilidade-manutenabilidade.png)
+[analisabilidade](../../assets/images/analisabilidade-manutenabilidade.png)
+
+
+Maturidade, Disponibilidade e Tolerancia a falahas foram as sub características votadas como mais importantante em confiabilidade e em discussão foi concordado que essas características eram mesmo as mais importante. Capacidade de recupração foi acordado que não entraria dentro do escopo.
+
+Em manutenabilidade, Analisabilidade, Modificabilidade, Testabilidade e Modularidade foram as mais votados. Em discussão foi acordado que essas seriam as sub características analísadas. Como foi discutido ao falar das características o grupo viu que era muito importante esses testes pois o projeto foi feito por alunos em formação e é bem possível eles não terem posto em consideração essas subcaracterísticas.
 
 
 
@@ -30,4 +46,5 @@ Decidimos não priorizar a segurança porque o site não lida com informações 
 
 | Versão | Data       | Descrição                                      | Autor(es)                                           |
 | ------ | ---------- | ---------------------------------------------- | --------------------------------------------------- |
+| 1.0 | 13/05/2026 | adicionou o moscow das características e subcaracteristicas e suas justificativas | Pedro Cruz |
 
