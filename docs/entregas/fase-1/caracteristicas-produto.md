@@ -63,7 +63,7 @@ Disponibiliza múltiplas formas de autenticação, incluindo login com conta Goo
 <p align="center"><b>Fonte: Captura de tela em <a href="https://no-fluxo.crianex.com/">site-live</a></b></p>
 
 
-### 3.3.7 Rastreamento de progresso com cálculo de horas obrigatórias e optativas
+### 3.3.5 Rastreamento de progresso com cálculo de horas obrigatórias e optativas
 
 Monitora o progresso acadêmico do aluno calculando automaticamente as horas concluídas em disciplinas obrigatórias e optativas. O sistema apresenta indicadores visuais de avanço no curso e informa pendências necessárias para a conclusão da graduação.
 
@@ -74,9 +74,11 @@ Monitora o progresso acadêmico do aluno calculando automaticamente as horas con
 ---
 
 ## Referências Bibliográficas
-- [código-fonte](https://github.com/unb-mds/2025-1-NoFluxoUNB)
-- [documentação-técnica](https://github.com/unb-mds/2025-1-NoFluxoUNB/blob/main/docs/PROJECT_DOCUMENTATION.md#5-database)
-- [site-live](https://no-fluxo.crianex.com/)
+> NO FLUXO UNB. **Código-fonte**. Disponível em: <https://github.com/unb-mds/2025-1-NoFluxoUNB>. Acesso em: 13 maio 2026.
+
+> NO FLUXO UNB. **Documentação Técnica**. Disponível em: <https://github.com/unb-mds/2025-1-NoFluxoUNB/blob/main/docs/PROJECT_DOCUMENTATION.md#5-database>. Acesso em: 13 maio 2026.
+
+> NO FLUXO UNB. **Site Oficial**. Disponível em: <https://no-fluxo.crianex.com/>. Acesso em: 13 maio 2026.
 
 
 ---
